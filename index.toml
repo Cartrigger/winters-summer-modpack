@@ -208,11 +208,6 @@ hash = "cd6dbfa58246fb0efdfc0d76cf09c81fcc862ab271d30c323b1c3a14657b254b"
 metafile = true
 
 [[files]]
-file = "mods/bmarker.pw.toml"
-hash = "a9f7be3caf1ac1e6b3dc4dd35e1db5f8598e2bdcb863b5bce7f67644e2cf68a8"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "5f32244bbf7f4864d6570bde7f7223655f52d5df455e7b9fe650b10dee42f830"
 metafile = true
