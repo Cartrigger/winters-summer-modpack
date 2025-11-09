@@ -109,8 +109,23 @@ file = "mods/Powah-5.1.0.jar"
 hash = "9a1c191d41fde415eaa877822d74772f8cd6964ec2475ad072e0991c11f6267c"
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "711a6cfc83cf149303b67b2d1e080d1ae4c6373cff928a2b96547f89f2fb9a7b"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "97befad2275e44c557794fbd321b154510279ce7906426607288062e096df86d"
+metafile = true
+
+[[files]]
 file = "mods/actually-harvest.pw.toml"
 hash = "940a3ec1fe1994442db106da8f9f883e82029ab087b4c2eba5e40839b97fbf8f"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "e71c04679ff75573cd8ef1003eb167830f794b8979f2bdd3c99d28793f2918b0"
 metafile = true
 
 [[files]]
@@ -678,6 +693,11 @@ hash = "6b58adc0caa94e0ec9ab4a472081456f1e7bcad169546373d0f01d1ed2ddaff5"
 metafile = true
 
 [[files]]
+file = "mods/lavender.pw.toml"
+hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
+metafile = true
+
+[[files]]
 file = "mods/leashable-villagers.pw.toml"
 hash = "ae5643475cdd26dadec8b8f1d08af1bc3db0cb017e11863b62882ca04179ab32"
 metafile = true
@@ -825,6 +845,11 @@ metafile = true
 [[files]]
 file = "mods/overpoweredmending.pw.toml"
 hash = "e8363c3d566ad522cdf51d07e62a2d5ddb7fb0f34684f023668fdce4b617b848"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
@@ -1174,6 +1199,11 @@ metafile = true
 [[files]]
 file = "mods/thaumon.pw.toml"
 hash = "f0a2cde8cf0dbe93a9122dbade2f581b742801cdf86aff44492be5cb51391840"
+metafile = true
+
+[[files]]
+file = "mods/things.pw.toml"
+hash = "6ee3cd558b1a9837bfe40b4410531f46c5157368dd53c305ebe6a9159b8e26ac"
 metafile = true
 
 [[files]]
