@@ -1,13 +1,13 @@
 name = "Colorwheel Patcher"
-filename = "colorwheel_patcher-fabric-0.2.4+mc1.21.1.jar"
+filename = "colorwheel_patcher-fabric-1.0.3+mc1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/KPsw5jDu/versions/N37X8jYa/colorwheel_patcher-fabric-0.2.4%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/KPsw5jDu/versions/bRDSdq8V/colorwheel_patcher-fabric-1.0.3%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "d8c6a5861da780a924bf0541a515f2eb1498d4c61292b0afd19ee622942aa05fa4c2c74eef9ee2f7ccf86929de0ff3707124d88537cfde6d3cea977116c55ca2"
+hash = "26b96477fe117e8e75d82ef9dff37b4d1254eb25d97f27c7c1cdf42e5c337c93939e8b0958a0768e1f0f840ae7435cb669f05c696f98491ef1c52ccb60f417a5"
 
 [update]
 [update.modrinth]
 mod-id = "KPsw5jDu"
-version = "N37X8jYa"
+version = "bRDSdq8V"

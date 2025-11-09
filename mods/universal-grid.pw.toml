@@ -1,13 +1,13 @@
 name = "Universal Grid"
-filename = "universalgrid-fabric-1.21.1-0.2.2.jar"
+filename = "universalgrid-fabric-1.21.1-0.2.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kpMfA312/versions/khrRpZ8K/universalgrid-fabric-1.21.1-0.2.2.jar"
+url = "https://cdn.modrinth.com/data/kpMfA312/versions/jVdUtgUZ/universalgrid-fabric-1.21.1-0.2.3.jar"
 hash-format = "sha512"
-hash = "231d07879c18df732a4723d563263e29674f459e7807d5b4d1c448153238c913c46457dfacbea15803210159776ed52097eb4c47bd63d80a2385c56207799b2d"
+hash = "bb9abeaa6f59102cdbad017a4938e56f28f1cecf8d093e08ce7fc173e6921eb0d617e22caf6bc41c3fa0755dd0f7c88ab67d5f8ed98cfef743a171ed152d142c"
 
 [update]
 [update.modrinth]
 mod-id = "kpMfA312"
-version = "khrRpZ8K"
+version = "jVdUtgUZ"

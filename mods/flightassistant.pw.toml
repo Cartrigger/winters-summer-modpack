@@ -1,13 +1,13 @@
 name = "FlightAssistant"
-filename = "flightassistant-fabric-3.0.0-alpha.12+mc1.21.1.jar"
+filename = "flightassistant-fabric-3.0.0-beta.1+mc1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/CWqLEOPt/versions/WAmoDkUU/flightassistant-fabric-3.0.0-alpha.12%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/CWqLEOPt/versions/ERmGuKcL/flightassistant-fabric-3.0.0-beta.1%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "8ff07a466d5493318ac5ba26350e006df4edc1d5da01172e678a300b90f0fee70970d0ad773c1aeb34b2c3431574eeab32c6c239de0ae6aaf9d599888b1bf72c"
+hash = "561200180d939b4bcc0bc3d7095ce81f1d61e0e4184d488962737d0a795c193de6326ec825999dc962a73d7de1ccfe4eeccfb2247b19c1a4fddd745f2947db27"
 
 [update]
 [update.modrinth]
 mod-id = "CWqLEOPt"
-version = "WAmoDkUU"
+version = "ERmGuKcL"
