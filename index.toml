@@ -341,11 +341,6 @@ file = "mods/copycats-3.0.2+mc.1.21.1-fabric.jar"
 hash = "5eda128c390b213f45d0792c00d00cdc3002399b7715cd73ecd7cf6202814ff2"
 
 [[files]]
-file = "mods/cosmetic-armor-revitalized-fabric.pw.toml"
-hash = "31e7d3fe7b55ec8611950b888cfb60954514b5062ef3b88487bdbaaef5093df4"
-metafile = true
-
-[[files]]
 file = "mods/coxinha-utilities.pw.toml"
 hash = "15c476f825144f86fe55c186b9c4b4488fd6b7d8172223bf737f08f06b8c58e0"
 metafile = true
