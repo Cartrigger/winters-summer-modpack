@@ -623,11 +623,6 @@ hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
 metafile = true
 
 [[files]]
-file = "mods/holodisplays.pw.toml"
-hash = "daccd37614e3265596f2f3591a377710ceaf138aecb7bfbda0dec3d66fd0cd4f"
-metafile = true
-
-[[files]]
 file = "mods/hyperleash.pw.toml"
 hash = "78cec28a833e4df14f69630ffd97a768dac9995ccf7f0e20cde38f72d646f5f0"
 metafile = true
